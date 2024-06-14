@@ -4,7 +4,7 @@
 Welcome to the World Happiness Index Data Analysis project repository. This project was developed as the final assignment for the Data 101 course and aims to analyze and visualize the World Happiness Report dataset. The report highlights the importance of happiness and well-being in governmental policies by evaluating various factors that contribute to happiness across different countries.
 
 ## Authors
-- Zhasmin Tuiachieva
+- Jasmine Tuiachieva
 - Djeinabou Diallo
 
 ## About the Dataset
@@ -47,6 +47,8 @@ This project showcases a variety of skills and concepts in data analytics, inclu
 
 ## References
 - [World Happiness Report Dataset](https://www.kaggle.com/datasets/unsdsn/world-happiness?resource=download)
+- [World Happiness Report](https://worldhappiness.report/)
+- [Gallup World Poll](https://news.gallup.com/topic/world-poll.aspx)
 
 ---
 
